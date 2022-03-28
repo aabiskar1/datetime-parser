@@ -14,6 +14,6 @@ minutes: m <br>
 second: s <br>
 ### input example <br>
 
-String input = `parse("now()+1y+10d-5m+5s");` <br>
+`String parsedDate = parse("now()+1y+10d-5m+5s");` <br>
 
 output: `2023-04-07T10:33:18.791Z`
